@@ -8,7 +8,7 @@ Experience 'Clima' - Your Weather Companion! Get real-time weather data for your
 - Understand async and await.
 - Learn about Futures and how to work with them.
 - How to network with the Dart http package.
-- What APIs are and how to use them to get data from the internet.
+- What APIs are, and how to use them to get data from the internet.
 - What JSONs are and how to parse them using the Dart convert package.
 - How to pass data forwards and backwards between screens using the Navigator.
 - How to handle exceptions in Dart using try/catch/throw.
